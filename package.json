@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
